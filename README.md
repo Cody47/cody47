@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning KOTLIN/CSS.
 - 💬 Ask me about ANDROID and Tech related stuffs.
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 7 hours on Android Studio Fixing bugs.
 
 <h3 align="left">Languages and Tools:</h3>
