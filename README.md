@@ -38,7 +38,3 @@
 
 ---
 
-### 🔗 Portfolio
-<p align="center">
-  <a href="https://cody47.pages.dev">Visit My Portfolio</a>
-</p>
